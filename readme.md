@@ -2,7 +2,7 @@
 This tool will allow you to patch `QpangBin.exe` and connect to a private server using the `QPangID.ini` file.
 
 ## Dependencies
-- You will need `net5.0`, which you can [download here](https://dotnet.microsoft.com/download/dotnet/5.0).
+- You will need `.NET Framework v4.7.2`, which you can [download here](https://dotnet.microsoft.com/download/dotnet-framework/net472).
 - You will need the original QPang/MangeFigther game files.
 
 ## Patching
