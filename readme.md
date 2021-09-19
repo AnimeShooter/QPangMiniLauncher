@@ -6,7 +6,7 @@ This tool will allow you to patch `QpangBin.exe` and connect to a private server
 - You will need the original QPang/MangeFigther game files.
 
 ## Patching
-First of all, you will need to either build the tool yourself or simply [download]() the binary. Once you obtained a binary you will have to do the following steps:
+First of all, you will need to either build the tool yourself or simply [download](https://github.com/AnimeShooter/QPangMiniLauncher/releases/download/v1.0.0/QpangLauncher.exe) the binary. Once you obtained a binary you will have to do the following steps:
 
 Step 1: Move the `QpangPatcher.exe` into your Qpang folder.
 
