@@ -110,7 +110,7 @@ namespace QpangLauncher
 
             // Make a backup if not already
             //string backupFilename = filePath.Replace(".exe", "_original.exe");
-            string backupFilename = filePath += ".bak";
+            string backupFilename = filePath + ".bak";
 
             if (!File.Exists(backupFilename))
                 File.WriteAllBytes(backupFilename, buffer);
